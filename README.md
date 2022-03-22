@@ -21,6 +21,6 @@
 - [Plugin] [MineSponge](https://github.com/MIN-MCBE/MineSponge)
 - [Plugin] [Mafia](https://github.com/MIN-MCBE/Mafia)
 - [Plugin] [CommandBook](https://github.com/Flugins/CommandBook)
-- [Plugin] [DiscordHelper](https://github.com/MIN-MCBE/DiscordHelper)
-- [Virion] [EconomyAPI](https://github.com/MIN-MCBE/EconomyAPI)
+- [Plugin] [EconomyAPI](https://github.com/MIN-MCBE/EconomyAPI)
+- [Vlugin] [DiscordHelper](https://github.com/MIN-MCBE/DiscordHelper)
 - [Virion] [AnimationHelper](https://github.com/MIN-MCBE/AnimationHelper)
