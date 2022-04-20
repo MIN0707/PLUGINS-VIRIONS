@@ -20,6 +20,7 @@
 - [Plugin] [JoinEffect](https://github.com/MIN-MCBE/JoinEffect)
 - [Plugin] [MineSponge](https://github.com/MIN-MCBE/MineSponge)
 - [Plugin] [Mafia](https://github.com/MIN-MCBE/Mafia)
+- [Plugin] [MineSweeper](https://github.com/Flugins/MineSweeper)
 - [Plugin] [CommandBook](https://github.com/Flugins/CommandBook)
 - [Plugin] [EconomyAPI](https://github.com/MIN-MCBE/EconomyAPI)
 - [Vlugin] [DiscordHelper](https://github.com/MIN-MCBE/DiscordHelper)
